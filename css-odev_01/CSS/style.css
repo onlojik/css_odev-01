@@ -1,0 +1,32 @@
+.header {
+    background-color: brown;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    border: 5px solid black;
+}
+
+.footer {
+    background-color: rgb(75, 75, 75);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+}
+
+a{
+    text-decoration: none;
+}
+a:hover {
+    font-weight: bold;
+}
+
+.item-I {
+    font-size: large;
+    color: beige;
+}
+.item-II {
+    font-size: small;
+    color: beige;
+}
